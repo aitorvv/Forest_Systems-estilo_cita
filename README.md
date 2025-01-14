@@ -1,8 +1,8 @@
 <div style="text-align: center;">
 
-# Congreso Forestal Español - estilo de cita para gestores bibliográficos
+# Forest Systems - estilo de cita para gestores bibliográficos
 
-*Repositorio con el estilo de cita requerido por los softwares de gestión bibliográfica para los manuscritos del Congreso Forestal Español*
+*Repositorio con el estilo de cita requerido por los softwares de gestión bibliográfica para la revista Forest Systems*
 
 </div>
 
@@ -12,10 +12,9 @@
 ## :floppy_disk: :mag: Sobre el archivo de estilo
 
 - Ajustado para distintos tipos de documentos: artículos, comunicaciones a congresos, libros...
-- Convierte a mayúsculas apellidos e iniciales de autores automáticamente
+- Citas en texto y bibliografía adaptadas a las [plantillas para autores](https://fs.revistas.csic.es/index.php/fs/about/submissions)
 - Compatible con los principales gestores de referencias, como Zotero y Mendeley
 - Sujeto a mejoras (ver apartado de contacto)
-- Ajustado a los requerimientos del Congreso Forestal Español
 
 ---
 
@@ -25,32 +24,36 @@
 
 ### :scroll: Cita en texto:
 
-> Texto de ejemplo (BRAVO et al., 2025; R CORE TEAM, 2021; VÁZQUEZ-VELOSO et al., 2025a, 2025b; VÁZQUEZ-VELOSO & GÓMEZ-SANZ, 2022)
+> Texto de ejemplo (Vázquez-Veloso et al., 2025a, 2025b; Bravo et al., 2025; Vázquez-Veloso & Gómez-Sanz, 2022; R Core Team, 2021)
 
 
-### :books: Bibliography example:
+### :books: Ejemplo de bibliografía:
 
-> BRAVO, F.; ORDÓÑEZ, C.; VÁZQUEZ-VELOSO, A.; MICHALAKOPOULOS, S.; 2025. SIMANFOR cloud Decision Support System: Structure, content, and applications. Ecological Modelling, 499, 110912. https://doi.org/10.1016/j.ecolmodel.2024.110912
+> Bravo F, Ordóñez C, Vázquez-Veloso A, Michalakopoulos S, 2025. SIMANFOR cloud Decision Support System: Structure, content, and applications. Ecological Modelling. 499:110912. DOI: 10.1016/j.ecolmodel.2024.110912.
 
-> R CORE TEAM.; 2021. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing. https://www.R-project.org/
+> R Core Team, 2021. R: A Language and Environment for Statistical Computing. R Foundation for Statistical Computing: Vienna, Austria https://www.R-project.org/.
 
-> VÁZQUEZ-VELOSO, A.; GÓMEZ-SANZ, V.; 2022. Identificación de las áreas y formaciones forestales para los que se prevén mayores riesgos de impacto por cambio climático: Evolución proyectada de las condiciones de marginalidad termopluviométrica sobre la distribución actual de las principales especie. In Bravo, F. (coord) 2022. Adaptación al cambio climático: directrices para la adaptación de la gestión del patrimonio natural y la política forestal al cambio climático en Castilla y León. Ed. Universidad de Valladolid, 507 pp. https://iufor.uva.es/wp-content/uploads/2023/05/PROYECTO-ADAPTA-CLIMA-PDF-DEFINITVO-DISFUSION-1.pdf
+> Vázquez-Veloso A, Gómez-Sanz V, 2022. Identificación de las áreas y formaciones forestales para los que se prevén mayores riesgos de impacto por cambio climático: Evolución proyectada de las condiciones de marginalidad termopluviométrica sobre la distribución actual de las principales especie. In: Bravo, F. (coord) 2022. Adaptación al cambio climático: directrices para la adaptación de la gestión del patrimonio natural y la política forestal al cambio climático en Castilla y León. Ed. Universidad de Valladolid, 507 pp. https://iufor.uva.es/wp-content/uploads/2023/05/PROYECTO-ADAPTA-CLIMA-PDF-DEFINITVO-DISFUSION-1.pdf.
 
-> VÁZQUEZ-VELOSO, A.; RUANO, I.; ORDÓÑEZ, C.; MICHALAKOPOULOS, S.; BRAVO, F.; 2025a. Modeling and simulation: supporting complex forest management [oral communication]. XIXh Young Researchers Meeting on Conservation and Sustainable Use of Forest Systems.
+> Vázquez-Veloso A, Ruano I, Ordóñez C, Michalakopoulos S, Bravo F, 2025a. Modeling and simulation: supporting complex forest management [oral communication]. In: XIXh Young Researchers Meeting on Conservation and Sustainable use of Forest Systems. Palencia (Spain).
 
-> VÁZQUEZ-VELOSO, A.; YANG, S. I.; BULLOCK, B. P.; BRAVO, F.; 2025b. Nuevas ecuaciones generalizadas de altura-diámetro para las especies forestales españolas [oral communication]. 9o Congreso Forestal Español. Gijón, España.
+> Vázquez-Veloso A, Yang SI, Bullock BP, Bravo F, 2025b. Nuevas ecuaciones generalizadas de altura-diámetro para las especies forestales españolas [oral communication]. In: 9o Congreso Forestal Español. Gijón, España.
 
 ---
 
 ## :arrow_down: Descarga de archivo .csl
 
-Descarga [aquí](https://github.com/aitorvv/Congreso_Forestal_Espanol-estilo_cita/archive/refs/heads/main.zip) el archivo `.csl` para instalarlo en tu gestor bibliográfico o siguiendo estas instrucciones:
+Descarga [aquí](https://github.com/aitorvv/Forest_Systems-estilo_cita/archive/refs/heads/main.zip) el archivo `.csl` para instalarlo en tu gestor bibliográfico o siguiendo estas instrucciones:
 
 ![descarga](./imagenes/descargar_repositorio.png)
 
 ---
 
 ## :gear: Guía de instalación
+
+:warning: Las siguiente capturas de pantalla fueron tomadas para instalar otro formato de cita, pero los pasos a seguir son los mismos. El nombre del estilo tras haber sido instalado es *Forest Systems - Aitor Vázquez Veloso*.
+
+
 
 ### <img src="./imagenes/zotero.png" alt="zotero" width="25">    Zotero
 
@@ -71,13 +74,12 @@ Descarga [aquí](https://github.com/aitorvv/Congreso_Forestal_Espanol-estilo_cit
 
 ---
 
-##  🌳🌲 Sobre el Congreso Forestal Español
+##  🌳🌲 Sobre la revista Forest Systems
  
-- [9º Congreso Forestal Español](https://9cfe.congresoforestal.es/)
-- [8º Congreso Forestal Español](https://8cfe.congresoforestal.es/)
-- [7º Congreso Forestal Español](https://7cfe.congresoforestal.es/)
-- [Actas del 8º Congreso Forestal Español](https://8cfe.congresoforestal.es/es/actas)
-- [Archivo de Actas de Congresos Forestales Españoles anteriores](https://secforestales.org/publicaciones/index.php/congresos_forestales/issue/archive)
+ - [Sitio web](https://fs.revistas.csic.es/index.php/fs)
+- [Equipo editorial](https://fs.revistas.csic.es/index.php/fs/about/editorialTeam)
+- [Lista de comprobación para envío de trabajos](https://fs.revistas.csic.es/index.php/fs/about/submissions)
+  
 ---
 
 ## :email: Contacto
@@ -104,6 +106,6 @@ El contenido de este repositorio está sujeto a la licencia [MIT License](./LICE
 
 <div style="text-align: center;">
 
-[![GitHub Repo](https://img.shields.io/github/stars/aitorvv/Congreso_Forestal_Espanol-estilo_cita?style=social)](https://github.com/aitorvv/Congreso_Forestal_Espanol-estilo_cita)
+[![GitHub Repo](https://img.shields.io/github/stars/aitorvv/Forest_Systems-estilo_cita?style=social)](https://github.com/aitorvv/Forest_Systems-estilo_cita)
 
 </div>
