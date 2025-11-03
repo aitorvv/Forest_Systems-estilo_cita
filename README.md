@@ -24,8 +24,7 @@
 
 ### :scroll: Cita en texto:
 
-> Texto de ejemplo (Vázquez-Veloso et al., 2025a, 2025b; Bravo et al., 2025; Vázquez-Veloso & Gómez-Sanz, 2022; R Core Team, 2021)
-
+> Texto de ejemplo (R Core Team, 2021; Vázquez-Veloso & Gómez-Sanz, 2022; Vázquez-Veloso et al., 2025a, 2025b; Bravo et al., 2025)
 
 ### :books: Ejemplo de bibliografía:
 

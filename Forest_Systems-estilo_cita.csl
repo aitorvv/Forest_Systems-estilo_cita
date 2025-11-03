@@ -10,7 +10,7 @@
     </author>
     <category citation-format="author-date"/>
     <category field="forestry"/>
-    <updated>2025-01-14</updated>
+    <updated>2025-11-03</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="editor">
@@ -114,17 +114,20 @@
     </choose>
   </macro>
   <citation et-al-min="3" et-al-use-first="1" disambiguate-add-year-suffix="true" disambiguate-add-names="false" disambiguate-add-givenname="false" collapse="year" givenname-disambiguation-rule="primary-name-with-initials">
+    <sort>
+      <key variable="issued" sort="ascending"/>
+      <key variable="author" sort="ascending"/>
+      <key variable="title" sort="ascending"/>
+    </sort>
     <layout prefix="(" suffix=")" delimiter="; ">
       <group delimiter=", ">
-        <group delimiter=" ">
-          <text macro="author-short" suffix=','/>
-          <text macro="year-date"/>
-        </group>
+        <text macro="author-short"/>
+        <text macro="year-date"/>
         <text variable="locator"/>
       </group>
     </layout>
   </citation>
-  <bibliography hanging-indent="false" et-al-min="6" et-al-use-first="1">
+  <bibliography hanging-indent="false" et-al-min="10" et-al-use-first="1">
     <sort>
       <key macro="author"/>
       <key variable="title"/>
